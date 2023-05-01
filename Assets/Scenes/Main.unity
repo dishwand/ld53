@@ -21288,9 +21288,10 @@ MonoBehaviour:
   playerStartDir: 5
   peek: {fileID: 1592865519}
   cameraPos: {x: 38.1, y: 10, z: -74}
-  hasStartDialogue: 0
+  hasStartDialogue: 1
   startDialogue:
-    text: []
+    text:
+    - i have never felt cold like this before. it's kind of comfy?
     stallInput: 0
   idleDialogue:
     dialogues: []
@@ -28534,7 +28535,7 @@ MonoBehaviour:
   playerStartDir: 5
   peek: {fileID: 37760962}
   cameraPos: {x: 21.4, y: 11.5, z: -46.4}
-  hasStartDialogue: 0
+  hasStartDialogue: 1
   startDialogue:
     text:
     - love a good ramp. what were they thinking when they installed these.
@@ -31475,7 +31476,7 @@ MonoBehaviour:
   playerStartObj: {fileID: 2010799980}
   playerStartDir: 5
   peek: {fileID: 2010799980}
-  cameraPos: {x: 4.4, y: 8, z: -29.56}
+  cameraPos: {x: 5, y: 8, z: -30.28}
   hasStartDialogue: 1
   startDialogue:
     text:
@@ -48530,7 +48531,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2058744276}
   m_LocalRotation: {x: 0.20533477, y: -0.5880176, z: 0.15755849, w: 0.76632136}
-  m_LocalPosition: {x: 33.8, y: 8, z: -63.4}
+  m_LocalPosition: {x: 5, y: 8, z: -30.28}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
